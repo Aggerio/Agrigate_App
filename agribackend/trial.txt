@@ -1,0 +1,1 @@
+{"nitrogen": 50.1, "phosphorus": 60.4, "potassium": 80, "humidity": "78.1"}
