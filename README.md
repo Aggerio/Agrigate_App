@@ -3,7 +3,6 @@
 A onestop app for all the farmers needs with cutting edge technologies like AI and AR
 
 ![Img1](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/1.png?raw=true)
-![Img2](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/2.png?raw=true)
 ![Img3](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/3.png?raw=true)
 ![Img4](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/4.png?raw=true)
 ![Img5](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/5.png?raw=true)
@@ -32,5 +31,3 @@ A onestop app for all the farmers needs with cutting edge technologies like AI a
 ![Img28](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/28.png?raw=true)
 ![Img29](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/29.png?raw=true)
 ![Img30](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/30.png?raw=true)
-![Img31](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/31.png?raw=true)
-![Img32](https://github.com/Aggerio/Agrigate_App/blob/Master/showcase_images/32.png?raw=true)
