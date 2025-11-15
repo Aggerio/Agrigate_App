@@ -1,4 +1,7 @@
 # Agrigate_App
+ 
+https://drive.google.com/file/d/1eNuhgSenOGuOekjBdZ35rhQoMlpHg7Id/view?usp=sharing
+
 
 A onestop app for all the farmers needs with cutting edge technologies like AI and AR
 
